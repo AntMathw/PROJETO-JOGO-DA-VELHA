@@ -1,5 +1,5 @@
-# PRoJETO JOGO DA VELHA
-# Este repositório contém o código-fonte para a implementação do clássico Jogo da Velha (Tic-Tac-Toe), desenvolvido em linguagem C como trabalho prático da disciplina.
+# PROJETO JOGO DA VELHA
+Este repositório contém o código-fonte para a implementação do clássico Jogo da Velha (Tic-Tac-Toe), desenvolvido em linguagem C como trabalho prático da disciplina.
 
 #📚 Detalhes Acadêmicos
  Disciplina: Linguagem e Técnicas de Programação
