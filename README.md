@@ -1,7 +1,11 @@
-# Projeto Jogo da Velha 
+# PORJETO JOGO DA VELHA
+# Este repositório contém o código-fonte para a implementação do clássico Jogo da Velha (Tic-Tac-Toe), desenvolvido em linguagem C como trabalho prático da disciplina.
 
-#💻 Detalhes do Projeto
-Disciplina: Linguagem e Técnicas de Programação
-Professor: Alberto
-Linguagem de Programação: C
-Objetivo: Aplicar conceitos fundamentais da linguagem C, como estruturas de repetição, vetores (arrays), funções e lógica condicional, para desenvolver um jogo interativo com dois jogadores.
+#📚 Detalhes Acadêmicos
+# Disciplina: Linguagem e Técnicas de Programação
+
+# Professor: Alberto
+
+# Linguagem de Programação: C
+
+# Objetivo: Aplicar e consolidar conceitos de programação estruturada em C, incluindo manipulação de arrays (vetores), controle de fluxo, funções e lógica de jogo.
